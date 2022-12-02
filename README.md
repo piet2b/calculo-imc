@@ -5,7 +5,7 @@
 const peso = A;
 const alturaEmMetros = B;
 
-const imc = peso / (alturaEmMetros * alturaEmMetros);
+const imc = peso / Math.pow(alturaEmMetros,2);
 console.log(imc.toFixed(1))
 
 if(imc < 18.5){
