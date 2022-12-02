@@ -1,4 +1,4 @@
-#Praticando com Variáveis, Operadores e Estruturas Condicionais. 
+# Praticando com Variáveis, Operadores e Estruturas Condicionais. 
 ## Exercício: Calcular o imc de alguém
 
 ```ruby
